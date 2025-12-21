@@ -18,8 +18,9 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 ## 🔧 Technologies & Tools
 
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,firebase,mongodb,c,nextjs,mysql,flask" />
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <br>
 </div>
 
 ## 📈 GitHub Stats
