@@ -16,8 +16,8 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 
 ## 🌱 I’m currently learning
 
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/)
 
 ## 🔨 I've contributed to
 
