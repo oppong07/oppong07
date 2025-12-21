@@ -3,21 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emmanuel+Oppong!;" />
 </h1>
 
-<h3 align="center">A passionate software developer based in Grambling, LA, USA</h3>
+I am an enthusiastic learner with strong mathematical aptitude and proficiency in computer programming, seeking opportunities to develop skills, build network, and apply talent to substantial projects.
 
-<br/>
+## 🚀 About Me
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+- 👋 @DanielOnGitHub17
+- 👀 I’m interested in Software Engineering, Artificial Intelligence, Backend Engineering, and Mathematics
+- 🌱 I’m currently learning C# and its related tech stacks
+- 💞️ I’m looking forward to completing impactful projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/enesidaniel/)
  
 <div align="center"> 
   <a href="mailto:oppongemmanuel1207@gmail.com">
