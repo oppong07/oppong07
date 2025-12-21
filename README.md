@@ -12,6 +12,7 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 - 🌱 I’m currently learning AWS and C# and its related tech stacks
 - 💞️ I’m looking forward to completing impactful projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-oppong-acheampong/)
+- 🌐 Dive into my world: [Portfolio](https://welcome-to-my-world-one.vercel.app/)
  
 <div align="center"> 
   <a href="mailto:oppongemmanuel1207@gmail.com">
