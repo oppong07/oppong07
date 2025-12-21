@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emmanuel+Oppong!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emmanuel!;" />
 </h1>
 
 I am an enthusiastic learner with strong mathematical aptitude and proficiency in computer programming, seeking opportunities to develop skills, build network, and apply talent to substantial projects.
