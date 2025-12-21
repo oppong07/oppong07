@@ -7,11 +7,11 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 
 ## 🚀 About Me
 
-- 👋 @DanielOnGitHub17
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, Backend Engineering, and Mathematics
-- 🌱 I’m currently learning C# and its related tech stacks
+- 👋 @oppong07
+- 👀 I’m interested in Backend Engineering, Software Engineering, Artificial Intelligence and Mathematics
+- 🌱 I’m currently learning AWS and C# and its related tech stacks
 - 💞️ I’m looking forward to completing impactful projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/enesidaniel/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-oppong-acheampong/)
  
 <div align="center"> 
   <a href="mailto:oppongemmanuel1207@gmail.com">
