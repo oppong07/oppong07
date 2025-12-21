@@ -38,11 +38,11 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 ### [Hackathon](https://github.com/oppong07/Hackathon)
 Duolingo Clone that plays like Duolingo.
 
+## Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-oppong-acheampong/)
 
-<br/><br/>
-
-<hr/>
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
 
 
 
