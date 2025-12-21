@@ -24,7 +24,7 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<hr/>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
