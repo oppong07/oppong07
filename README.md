@@ -13,6 +13,26 @@ I am an enthusiastic learner with strong mathematical aptitude and proficiency i
 - 💞️ I’m looking forward to completing impactful projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-oppong-acheampong/)
 - 🌐 Dive into my world: [Portfolio](https://welcome-to-my-world-one.vercel.app/)
+
+## 🌱 I’m currently learning
+
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+
+## 🔨 I've contributed to
+
+[<img src="assets/bugsplat.png" height="50px">](https://github.com/BugSplat-Git)
+[<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
+[<img src="assets/supabase.png" height="50px">](https://github.com/supabase/supabase/pulls?q=author%3Abobbyg603+)
+[<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Abobbyg603)
+[<img src="assets/ionic.png" height="50px">](https://github.com/ionic-team/ionic-docs/pulls?q=author%3Abobbyg603+)
+[<img src="assets/ethereum.png" height="50px">](https://github.com/ethereum/ethereum-org-website/pulls?q=author%3Abobbyg603+)
+[<img src="assets/ng-mocks.png" height="50px">](https://github.com/help-me-mom/ng-mocks/pulls?q=author%3Abobbyg603+)
+[<img src="assets/swimlane.png" height="50px">](https://github.com/swimlane/ngx-charts/pulls?q=author%3Abobbyg603+)
+[<img src="assets/hotjar.png" height="50px">](https://github.com/hotjar/hotjar-js/pulls?q=author%3Abobbyg603+)
+[<img src="assets/sindre.png" height="50px">](https://github.com/sindresorhus/is-video/pulls?q=author%3Abobbyg603+)
+[<img src="assets/hanzla.png" height="50px">](https://github.com/1hanzla100/developer-portfolio/pulls?q=author%3Abobbyg603)
+[<img src="assets/georgipeltekov.png" height="50px">](https://github.com/georgipeltekov/ngx-file-drop/pulls?q=author%3Abobbyg603)
  
  
 ## 🔧 Technologies & Tools
