@@ -40,15 +40,6 @@
     <br>
 </div>
 
-## 📈 GitHub Stats
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=oppong07&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppong07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
-<br/><br/>
-
-<hr/>
-
 ## 🏆 Top Repository
 
 ### [Hackathon](https://github.com/oppong07/Hackathon)
