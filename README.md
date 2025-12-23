@@ -35,8 +35,8 @@
 ## 🔧 Technologies & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,firebase,mongodb,c,nextjs,mysql,flask" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,git,nodejs,express,firebase,mongodb,c,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,r" />
     <br>
 </div>
 
