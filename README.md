@@ -16,11 +16,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-oppong-acheampong/)
 - 🌐 Dive into my world: [Portfolio](https://welcome-to-my-world-one.vercel.app/)
 
-## 🌱 I’m currently learning
-
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/)
-
 ## 🔨 I've contributed to
 
 [<img src="assets/bugsplat.png" height="50px">](https://github.com/BugSplat-Git)
